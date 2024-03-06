@@ -1,0 +1,4 @@
+Axios adalah library JavaScript yang biasa digunakan untuk mengirim permintaan HTTP dari browser atau Node.js.
+
+ Pustaka ini menyediakan antarmuka yang mudah digunakan untuk mengirim permintaan AJAX (Asynchronous JavaScript and XML) ke server dan memproses respons.
+
